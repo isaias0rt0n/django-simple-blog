@@ -1,0 +1,34 @@
+body{
+    margin: 0 25%;
+    background: #f7f7f7;
+    font-size: 1.5rem;
+    color: #111111;
+}
+h1 {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    border-bottom: 1px solid gray;
+    color: #5a528d;
+}
+
+h2>a{
+    text-decoration: none;
+    color: #6747c7;
+    cursor: pointer;
+    font-weight: bold;
+}
+p {
+    margin-top: 1px;
+}
+p.date{
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+.box{
+    background: #fff;
+    padding: 15px;
+    margin-top: 1rem;
+    border-radius: 10px;
+}
